@@ -4,7 +4,6 @@
     background-color: white;
     width: 100%;
     height: 100%;
-    margin-top: 1rem;
 }
 
 .rectangle1 {
@@ -75,9 +74,14 @@ p {
 }
 
 .lines {
-    background-image: url(Line_Interaction_1.svg);
+    background-image: url(file:///C:/Users/sidne/OneDrive/Desktop/2022-2023/Spring/424%20Adv%20Media/424-AdvMedia-Web/424-AdvMedia-Web/Project%20One/line1.svg);
+
+    background-position-x: center;
+    background-repeat: no-repeat;
     display: flex;
     width: 71.428571vw;
     height:71.428571vh;
     margin: auto;
+    border: 0.25px solid black;
+    margin-top: 5rem;
 }
